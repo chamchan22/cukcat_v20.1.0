@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179107059917",
+    "firebase_url": "https://cukcat-40d1d.firebaseio.com",
+    "project_id": "cukcat-40d1d",
+    "storage_bucket": "cukcat-40d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179107059917:android:8bf3ceb0fae02a41c7f184",
+        "android_client_info": {
+          "package_name": "com.bluppy.cuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179107059917-kdicrit0h44vdjajqapbgeoq6ruj4u1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluppy.cuk",
+            "certificate_hash": "ecb8dd7a1b0e2b794cf233be54fb80248f8ac4c8"
+          }
+        },
+        {
+          "client_id": "179107059917-5vgs6i1c8e5rt9jqu86upmrel4abfn9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YqYcEF68jRNfc63d2twvqXz8pWJ6s9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179107059917-5vgs6i1c8e5rt9jqu86upmrel4abfn9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
